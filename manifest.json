@@ -1,0 +1,9 @@
+{
+    "display": "standalone",
+    "name": "fetch(bible) app",
+    "short_name": "bpmf-bible",
+    "icons": [
+        {"src": "icon_maskable.png"},
+        {"src": "icon_maskable.png", "purpose": "maskable"}
+    ]
+}
